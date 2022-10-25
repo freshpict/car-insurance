@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://freshpict.github.io/car-insurance/sitemapx.xml
